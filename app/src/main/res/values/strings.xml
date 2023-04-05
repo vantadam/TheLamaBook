@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TheLamaBook</string>
+    <string-array name="Stories_name">
+        <item>He walks</item>
+        <item>where do I even start </item>
+        <item>Love, yourself </item>
+        <item>Her</item>
+        <item>Venting</item>
+        <item>Faceless</item>
+        <item>The diary of a teen alien</item>
+        <item>She caught me staring again</item>
+        <item>I`m still stunned</item>
+        <item>Hope</item>
+        <item>Spread fear</item>
+        <item>Shattered Glass</item>
+        <item>Just another one</item>
+        <item>Moving mountains</item>
+    </string-array>
+</resources>
